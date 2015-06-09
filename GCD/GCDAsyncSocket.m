@@ -35,7 +35,7 @@
 
 
 #ifndef GCDAsyncSocketLoggingEnabled
-#define GCDAsyncSocketLoggingEnabled 0
+#define GCDAsyncSocketLoggingEnabled 1
 #endif
 
 #if GCDAsyncSocketLoggingEnabled
